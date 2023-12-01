@@ -6,4 +6,4 @@ This repo contains solution code for Advent of Code 2023.
 
 ## Index
 
-1. (Day 1: Trebuchet?)[./day1.py]
+1. [Day 1: Trebuchet?](/day1.py)
