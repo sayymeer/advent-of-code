@@ -8,7 +8,10 @@ This repo contains solution code for Advent of Code 2023. Download the input fil
 python3 day1.py input.in
 ```
 
+or you can use `make` command to run.
 
 ## Index
 
 1. [Day 1: Trebuchet?](/day1.py)
+2. [Day 2: Cube Conundrum](/day2.py)
+3. [Day 3: Gear Ratios](/day3.py)

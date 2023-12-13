@@ -28,7 +28,5 @@ for i,line in enumerate(content,start=1):
     powerSet = list(map(max,cubes))
     powersOfCube.append(powerSet[0]*powerSet[1]*powerSet[2])
 
-
-
 print(sum(validGameNumber))
 print(sum(powersOfCube))
